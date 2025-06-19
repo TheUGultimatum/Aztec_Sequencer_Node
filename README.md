@@ -310,4 +310,26 @@ aztec add-l1-validator \
 
 <div align="center">
 
+✅ video link - https://youtu.be/4-bFUbRcRKo
 
+🔴 GitHub - https://github.com/TheUGultimatum/Aztec_Sequencer_Node
+
+Like , Comment and Subscribe
+
+requirements :
+
+vps
+sepolia rpc (private)
+sepolia token
+discord account
+RPC TRICK - https://www.allnodes.com/
+
+if RPC error ata to :
+
+Ctrl + C to stop the node then sudo reboot
+The run this : ```aztec-up latest```
+
+then make new screen > go to the screen > run your sequencer start cmd again with allnode RPC
+
+
+aztec peer id check - https://t.me/theUGultimatum/2539
